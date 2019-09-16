@@ -5,6 +5,7 @@ This repo contains some models and code from artee.ai project - endless AI Gener
 T-Shirt designs and captions were generated using neural networks. Each time updating the page, a unique design is obtained.
 Any t-shirt can be ordered by clicking on it. Tees printed in UK using Teemill service and delivered worldwide.
 
+![Drag Racing](images/me.jpg)
 
 ## StyleGAN model
 
