@@ -14,7 +14,7 @@ As an algorithm we decided to use StyleGAN ([original NVIDIA's repo link](https:
 
 As a dataset, we used [subset of wikiart styles](https://github.com/VladimirGl/artee.ai) and [The Museum of Modern Art dataset](https://github.com/MuseumofModernArt/collection). We have removed low-quality images, crop non-square images and it gave us a final dataset of about 40.000 images.
 
-You can check how our model works using colab - [colab link](https://colab.research.google.com/drive/1GK5MD94PBBkRAbrJ3Zkln3O_maHUTGQA).
+You can check how our model works using [colab](https://colab.research.google.com/drive/1GK5MD94PBBkRAbrJ3Zkln3O_maHUTGQA) or `pytorch_stylegan_art.ipynb` notebook.
 
 ## Google Cloud
 
