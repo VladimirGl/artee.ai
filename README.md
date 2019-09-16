@@ -30,5 +30,6 @@ Both endpoints use google cloud functions, so we have fully serverless and scala
 ## Some URL's
 
 * [artee.ai](https://artee.ai)
+* [model weights](https://storage.googleapis.com/artee/model.pt)
 * [producthunt product page](https://www.producthunt.com/posts/ai-generated-tees)
 * [teemill store](https://artee-ai.teemill.com)
