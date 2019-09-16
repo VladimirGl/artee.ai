@@ -9,6 +9,8 @@ Any t-shirt can be ordered by clicking on it. Tees printed in UK using Teemill s
 
 ## StyleGAN model
 
+[COLAB DEMO](https://colab.research.google.com/drive/1GK5MD94PBBkRAbrJ3Zkln3O_maHUTGQA)
+
 A high-quality generative model is the heart of our product. So we started with research in this direction. t is obvious that the quality will depend on two things - algorithm and data. 
 
 As an algorithm we decided to use StyleGAN ([original NVIDIA's repo link](https://github.com/NVlabs/stylegan)), since it generates high-resolution images (1024 x 1024) and it was proved that it works for different domains (tons of this[soemthing]doesnotexists sites).
