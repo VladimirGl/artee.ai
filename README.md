@@ -27,4 +27,8 @@ We have two API endpoints (code in gcloud folder):
 
 Both endpoints use google cloud functions, so we have fully serverless and scalable architecture.
 
+## Some URL's
 
+* [artee.ai](https://artee.ai)
+* [producthunt product page](https://www.producthunt.com/posts/ai-generated-tees)
+* [teemill store](https://artee-ai.teemill.com)
