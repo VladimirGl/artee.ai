@@ -1,4 +1,4 @@
-# [artee.ai](https://artee,ai)
+# [artee.ai](https://artee.ai)
 
 This repo contains some models and code from artee.ai project - endless AI Generated Tees store.
 
